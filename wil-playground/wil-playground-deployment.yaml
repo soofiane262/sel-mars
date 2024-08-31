@@ -16,4 +16,4 @@ spec:
         - image: wil42/playground:v1
           name: wil-playground
           ports:
-            - containerPort: 80
+            - containerPort: 8888
